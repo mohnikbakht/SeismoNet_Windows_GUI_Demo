@@ -6,6 +6,7 @@ We designed a Windows app in C# (on the .NET platform) to interface with the wea
 
 2) Connected to the device using a USB cable: In this mode user can transfer the data recorded in the SD card to the computer in a .csv format.
 
-# Demo
+## Demo
 
+The image below shows a screenshot of the app when collecting data from 4 wearable patches at the same time.
 ![Image of The GUI](https://github.com/mohnikbakht/Windows_App_Demo/blob/main/Images/4node_GUI.PNG)
