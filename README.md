@@ -1,6 +1,6 @@
 # Windows App Demo
 
-We designed a Windows app in C# (on the .NET platform) to interface with the wireless patches. This interface works in two modes:
+We designed a Windows app in C# (on the .NET platform) to interface with the wearable patches ([link to Our Wearable Patches!](https://github.com/mohnikbakht/Cardio_Wearable_Patch)) . This interface works in two modes:
 
 1) Connected to the device through Bluetooth LE: In this mode the user can send commands to the devices as well as receive and plot the data in real time. Up to 4 devices can connect and send data at the same time. The recording can be saved as a .csv file and also emailed to the user. The user can also monitor the files in the SD card.
 
