@@ -1,4 +1,4 @@
-# Windows App Demo
+# Windows App Demo (C#)
 
 We designed a Windows app in C# (on the .NET platform) to interface with the wearable patches ([link to Our Wearable Patches!](https://github.com/mohnikbakht/Cardio_Wearable_Patch)) . This interface works in two modes:
 
