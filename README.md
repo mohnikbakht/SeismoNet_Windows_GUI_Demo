@@ -8,4 +8,4 @@ We designed a Windows app in C# (on the .NET platform) to interface with the wir
 
 # Demo
 
-![alt text](https://github.com/mohnikbakht/Windows_App_Demo/blob/main/images/4node_GUI.jpg?raw=true)
+![alt text](https://github.com/mohnikbakht/Windows_App_Demo/blob/main/Images/4node_GUI.png?raw=true)
