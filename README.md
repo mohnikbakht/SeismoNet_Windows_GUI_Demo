@@ -12,5 +12,5 @@ The image below shows a screenshot of the app when collecting data from 4 wearab
 
 ![Image of The GUI](https://github.com/mohnikbakht/Windows_App_Demo/blob/main/Images/4node_GUI.PNG)
 
-Youtube video demo:
+Youtube video demo:https://youtu.be/j6dOVdwymn4
 
