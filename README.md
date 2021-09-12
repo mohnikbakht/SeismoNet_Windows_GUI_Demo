@@ -7,3 +7,5 @@ We designed a Windows app in C# (on the .NET platform) to interface with the wir
 2) Connected to the device using a USB cable: In this mode user can transfer the data recorded in the SD card to the computer in a .csv format.
 
 # Demo
+
+![alt text](https://github.com/mohnikbakht/Windows_App_Demo/blob/main/images/4node_GUI.jpg?raw=true)
